@@ -32,6 +32,7 @@ this is web information about service cloud offered by DSTI ITB
 
 # Design Home Page for this website
 im using balsamiq.com to create sketch about my website.
+![Home Page](https://user-images.githubusercontent.com/39482240/65055128-d7c85e80-d998-11e9-8c25-45c828b6c9f7.png)
 
 
 
