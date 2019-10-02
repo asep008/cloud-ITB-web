@@ -40,15 +40,15 @@ im using balsamiq.com to create sketch about my website.
 
 
 ## progress pekerjaan.
-minggu ke -1:
+progres W1:
 - pembuatan frontend halaman utama.
 
 ## target pekerjaan.
-minggu ke -2:
+Target W2:
 - pembuatan form untuk pengajuan layanan.
 
 ## hal yang harus dipelajari.
-minggu ke 1-2:
+Hal yang harus dipelajari W1-2:
 - mempelajari javascript.
 
 
