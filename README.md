@@ -35,7 +35,20 @@ im using balsamiq.com to create sketch about my website.
 ![Home Page](https://user-images.githubusercontent.com/39482240/65055128-d7c85e80-d998-11e9-8c25-45c828b6c9f7.png)
 
 
+# timeline pekerjaan
+![timeline](https://user-images.githubusercontent.com/39482240/65975230-29ee9280-e423-11e9-99f9-0da023c3b474.PNG)
 
 
+## progress pekerjaan.
+minggu ke -1:
+- pembuatan frontend halaman utama.
+
+## target pekerjaan.
+minggu ke -2:
+- pembuatan form untuk pengajuan layanan.
+
+## hal yang harus dipelajari.
+minggu ke 1-2:
+- mempelajari javascript.
 
 
